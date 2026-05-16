@@ -6,6 +6,10 @@
 
 Claude Code-driven. Markdown-first. The rubric grew from six plain dimensions to a fully structured scoring system through 300 innovations logged across 55 works — canonical imports and original designs — without a single retroactive rescore.
 
+**Review roles:** This repo uses
+[ROLES](https://github.com/giodl73-repo/ROLES), the `.roles` convention for
+repository-local review panels.
+
 ---
 
 ## What ASPECT has done
