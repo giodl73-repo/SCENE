@@ -1,6 +1,6 @@
-# ASPECT Role Index
+# SCENE Role Index
 
-ASPECT is a visualization design lab with a forward-only rubric, historical
+SCENE is a visualization design lab with a forward-only rubric, historical
 persona panels, school grammars, and original visualization work. Use these
 roles when changing rubric dimensions, school grammars, panel claims,
 visualization designs, or public score narratives.

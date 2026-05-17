@@ -1,6 +1,8 @@
-# ASPECT
+# SCENE
 
-**A visualization design lab.** Named for the rubric at its centre: every good visualization presents the right aspects of its subject to its viewer.
+**A visualization design lab.** SCENE studies how visual works frame, reveal,
+and persuade. Its central rubric is ASPECT: every good visualization presents
+the right aspects of its subject to its viewer.
 
 **A**im · **S**chool · **P**recision · **E**ffect · **C**larity · **T**ruth — six dimensions, 100 points, board-ratified by ten historical persona voices.
 
@@ -12,7 +14,7 @@ repository-local review panels.
 
 ---
 
-## What ASPECT has done
+## What SCENE has done
 
 **Reviewed 43 canonical works** spanning the full spectrum of visualization history — from Euclid's geometric proofs (~300 BCE) to Rosling's animated bubble chart (2006), from Minard's Napoleon march to the HOLC redlining maps, from Haeckel's biological illustrations to Kandinsky's abstract grammar.
 
@@ -127,7 +129,7 @@ Eight skills in [`.claude/skills/`](.claude/skills/): `degas-brief` · `degas-sc
 ## Repository Layout
 
 ```
-ASPECT/
+SCENE/
 ├── scoring/
 │   ├── RUBRIC.md               ASPECT v3.0
 │   ├── INNOVATIONS.md          300 innovations, append-only
